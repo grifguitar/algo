@@ -1,3 +1,7 @@
+# Декартово дерево поиска
+
+преп. Хлытин Григорий
+
 ### Реализация на С++
 
 * [SearchTree.h](https://github.com/grifguitar/algo/tree/main/search_tree/SearchTree.h)
