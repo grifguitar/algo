@@ -1,9 +1,9 @@
 //
-// Created by Grigoriy Khlytin on 15.12.2021.
+// Created by Grigoriy Khlytin on 15.03.2022.
 //
 
-#ifndef ITMO_CIRCLE_B_DIST_SEARCHTREE_H
-#define ITMO_CIRCLE_B_DIST_SEARCHTREE_H
+#ifndef SEARCHTREE_H
+#define SEARCHTREE_H
 
 #include <iostream>
 #include <vector>
@@ -16,4 +16,4 @@ public:
     static bool solve();
 };
 
-#endif //ITMO_CIRCLE_B_DIST_SEARCHTREE_H
+#endif //SEARCHTREE_H

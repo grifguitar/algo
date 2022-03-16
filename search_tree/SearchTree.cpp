@@ -1,5 +1,5 @@
 //
-// Created by Grigoriy Khlytin on 15.12.2021.
+// Created by Grigoriy Khlytin on 15.03.2022.
 //
 
 #include "SearchTree.h"
